@@ -1,4 +1,4 @@
-# Flow-Gradient-Regularization (PyTorch)
+# CAM-Adversarial-Marginal-Attack (PyTorch)
 
 <div align=center> <img src="./figures/cifar10_vgg11.png"/> </div>
 
