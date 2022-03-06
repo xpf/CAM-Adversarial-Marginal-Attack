@@ -10,7 +10,7 @@ MODELS = {
 }
 
 
-def build_separated_model(model_name='resnet50'):
+def build_separated_model(model_name):
     assert model_name in MODELS.keys()
     model = MODELS[model_name](pretrained=True)
     extractor = nn.Sequential(*list(model.children())[:-2])
