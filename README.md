@@ -1,6 +1,6 @@
 # CAM-Adversarial-Marginal-Attack (PyTorch)
 
-<div align=center> <img src="./figures/cifar10_vgg11.png"/> </div>
+<div align=center> <img src="./figures/test_ama_2.jpg"/> </div>
 
 [On the Receptive Field Misalignment in CAM-based Visual Explanations](https://www.sciencedirect.com/science/article/pii/S0167865521003810)
 
