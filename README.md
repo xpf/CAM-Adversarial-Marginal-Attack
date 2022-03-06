@@ -11,6 +11,8 @@ Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li, *Pattern Recognition Letters*
 ## Attacking
 
 ```python
+# Attack an image with e set to 2
+python attack.py --model_name resnet101 --image ./figures/test.jpg --e 2
 ```
 
 
