@@ -22,7 +22,7 @@ If you find this work useful for your research, please cite our paper:
 
 ```
 @article{xia2021receptive,
-  title={On the receptive field misalignment in CAM-based visual explanations},
+  title={On the Receptive Field Misalignment in CAM-based Visual Explanations},
   author={Xia, Pengfei and Niu, Hongjing and Li, Ziqiang and Li, Bin},
   journal={Pattern Recognition Letters},
   volume={152},
