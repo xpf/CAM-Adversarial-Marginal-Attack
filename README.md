@@ -18,7 +18,7 @@ python attack.py --model_name resnet101 --image ./figures/test.jpg --e 2
 
 ## Citation
 
-If you find this work useful for your research, please cite our paper:
+If you find this work useful for your research, please consider citing our paper:
 
 ```
 @article{xia2021receptive,
